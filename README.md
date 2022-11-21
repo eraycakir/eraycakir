@@ -6,7 +6,7 @@ Programmer
 
 C#, Reverse engineering ...
 
-* 🌍  I'm based in hi
+* 🌍  I'm based in 0f
 * ✉️  You can contact me at [e\_peganom@hotmail.com](mailto:e_peganom@hotmail.com)
 * 🚀  I'm currently working on [tasitasi](http://www.tasitasi.com)
 
