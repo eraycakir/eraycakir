@@ -7,7 +7,7 @@ Programmer
 C#, Reverse engineering ...
 
 * 🌍  I'm based in 0f
-* ✉️  You can contact me at [e\_peganom@hotmail.com](mailto:e_peganom@hotmail.com)
+* ✉️  You can contact me at [peganom@gmail.com](mailto:peganom@gmail.com)
 * 🚀  I'm currently working on ?
 
 ### Skills
